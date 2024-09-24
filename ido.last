@@ -1,0 +1,60 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/admin/.emacs.d/quelpa/build/" . "org-xournalpp/")
+ ("/home/admin/.emacs.d/" . "quelpa/")
+ ("/home/admin/.emacs.d/elpa/" . "quelpa-20230620.1343/")
+ ("/home/admin/.emacs.d/quelpa/" . "build/")
+ ("/home/admin/probes/" . "lsp_probe/")
+ ("/home/admin/" . "probes/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/admin/probes/lsp_probe/"
+ "/home/admin/.emacs.d/"
+ "/home/admin/probes/org/"
+ "/home/admin/.emacs.d/quelpa/build/org-xournalpp/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "main.cpp"
+ "init.el"
+ "new.org"
+ "cool_shit.xopp"
+ "org-xournalpp.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/admin/.emacs.d/" (26354 38795 239395 481000) ".dap-breakpoints" "elpa/" "auto-save-list/" "ido.last" "./" "quelpa/" ".lsp-session-v1" "tramp" "smex-items" "../" "ido.last~" "init.el" "init.el~")
+
+ ("/home/admin/emsdk/" (26288 63614 303263 447000) "emsdk_env.csh" "upstream/" "bazel/" "LICENSE" "emsdk_manifest.json" "test/" "emcmdprompt.bat" ".git/" "docker/" "emscripten-releases-tags.json" ".circleci/" "emsdk_env.fish" "emsdk_env.sh" ".github/" "emsdk_env.ps1" "./" ".emscripten" "README.md" "SECURITY.md" ".flake8" "downloads/" "emsdk.ps1" "node/" "llvm-tags-64bit.txt" "legacy-emscripten-tags.txt" "emsdk" "scripts/" "legacy-binaryen-tags.txt" "../" ".dockerignore" "emsdk_env.bat" ".gitignore" "emsdk.bat" "emsdk.py")
+
+ ("/home/admin/probes/" (26354 37528 207021 812000) "rusty/" "tutorials/" "lsp_probe/" "./" "org/" "synk/" "portfolio/" "libraries/" "../" "twenty-five-and-five/" "go_tuts/")
+
+ ("/home/admin/probes/lsp_probe/" (26354 37949 332569 484000) "main.cpp" "./" "main.cpp~" "../")
+
+ ("/home/admin/probes/org/" (26354 36769 900380 985000) "./" "../" "#new.org#")
+
+ ("/home/admin/" (26354 36661 958321 307000) "intel/" ".icons/" ".stack/" "mamabanga/" ".pki/" ".cmake/" ".gtkrc-2.0" "dsamonster/" ".zen/" "zig/" ".skiko/" "Downloads/" ".waveterm/" "memes/" "archrice/" ".texlive/" "yarn.lock" "stdman/" ".yarnrc" "RE" "powerlevel10k/" ".vim/" "HyprPanel/" ".intel/" "Desktop/" ".zshrc" ".Xauthority" ".ICEauthority" "arch-setup/" "AudioProjects/" "Calibre Library/" ".rustup/" "c3c-git/" "dsd_notes.pdf" "qemu-9.0.1/" "books/" ".erc/" "probes/" ".fehbg" "haskell-tuts/" ".cargo/" "Pictures/" ".local/" ".surrealdb/" ".Xilinx/" "drama(zeetv).org" "neetcode/" ".cabal/" ".npm/" "dwm/" "opendoc" ".mshell/" ".profile" "music_lite/" "dsa-grind/" "./" "grenadier/" "Videos/" "render.mp3" ".dwm_log" "afetch/" ".config/" ".emacs.d/" "Documents/" "org/" ".xinitrc" "audience.txt" "malloc/" ".java/" ".ghcup/" ".spotdl/" ".p10k.zsh" "wallpapers/" ".bashrc" "cafcprep/" "yay/" "aura/" "ds-l/" "backend/" "go/" "journal.org~" "journal.org" ".bash_history" ".cache/" "something" ".newsboat/" ".mozilla/" ".bash_profile" "xac/" "drama(zeetv).org~" ".bun/" "stw/" ".viminfo" ".python_history" "gdsc/" "qemu-9.0.1.tar.xz" "emsdk/" "node_modules/" "history.txt" ".var/" ".bash_logout" "dwm-from-gdm/" ".vimrc" "dotfiles/" ".yarn/" "evenbettermotherfuckingwebsite/" "swapkeys" "journal.txt~" ".wget-hsts" ".bashrc~" ".zprofile" "org-xournalpp/" "../" "competitive-programming/" "Music/" "shantz-csv-to-opml/" ".gitconfig" "package-lock.json" ".zshenv" ".zsh/" ".zcompdump" "Makefile" "Symposium_v2.0/" "package.json" ".gnupg/" "py-lsp/" ".zshrc~")
+
+ ("/home/admin/.emacs.d/quelpa/build/org-xournalpp/" (26354 35290 72340 271000) ".gitattributes" "LICENSE" ".git/" "resources/" "./" "README.org" "../" "org-xournalpp.el")
+
+ ("/home/admin/.emacs.d/quelpa/build/" (26354 35306 259060 465000) "dash/" "s/" "./" "f/" "org-xournalpp/" "../")
+
+ ("/home/" (26204 10082 54711 177000) "admin/" "./" "../")
+
+ ("/home/admin/.emacs.d/elpa/quelpa-20230620.1343/" (26354 35007 903025 638000) "bootstrap.elc" "quelpa.elc" "quelpa.el" "./" "bootstrap.el" "quelpa-pkg.el" "quelpa-autoloads.el" "../")
+
+ ("/home/admin/.emacs.d/elpa/" (26354 35314 772416 925000) "f-20240308.143619/" "use-package-20230426.2324/" "org-xournalpp-20210702.190939/" "quelpa-20230620.1343/" "goto-chg-20240407.1110/" "s-20220902.204117/" "./" "smex-20151212.2209/" "archives/" "quelpa-use-package-20201022.746/" "gnupg/" "dash-20240510.185708/" "evil-20240915.832/" "../")
+
+ ("/home/admin/.emacs.d/quelpa/melpa/" (26354 35096 793454 356000) "html/" "packages-stable/" "logo/" "recipes/" ".git/" "docker/" "html-stable/" ".github/" "./" "README.md" ".mailmap" "package-build/" "CONTRIBUTING.org" "packages/" ".dir-locals.el" "LICENSE.md" "../" ".gitignore" "Makefile")
+
+ ("/home/admin/.emacs.d/quelpa/" (26354 35314 969084 91000) "./" "build/" "cache" "../" "melpa/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
