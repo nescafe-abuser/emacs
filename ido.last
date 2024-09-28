@@ -2,44 +2,110 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/admin/my_notes/PS/" . "handwritten/")
+ ("/home/admin/.emacs.d/elpa/yasnippet-snippets-20240911.801/snippets/" . "org-mode/")
+ ("/home/admin/.emacs.d/elpa/yasnippet-snippets-20240911.801/" . "snippets/")
+ ("/home/" . "admin/")
+ ("/home/admin/.config/polybar/" . "modules/")
+ ("/home/admin/.config/" . "sway/")
+ ("/home/admin/my_notes/gate_cse/" . "toc/")
+ ("/home/admin/my_notes/" . "PS/")
+ ("/home/admin/study/gate_cse/" . "toc/")
+ ("/home/admin/study/" . "PS/")
  ("/home/admin/.emacs.d/quelpa/build/" . "org-xournalpp/")
- ("/home/admin/.emacs.d/" . "quelpa/")
- ("/home/admin/.emacs.d/elpa/" . "quelpa-20230620.1343/")
+ ("/home/admin/.emacs.d/" . "elpa/")
+ ("/home/admin/.emacs.d/elpa/" . "yasnippet-snippets-20240911.801/")
  ("/home/admin/.emacs.d/quelpa/" . "build/")
  ("/home/admin/probes/" . "lsp_probe/")
- ("/home/admin/" . "probes/")
+ ("/home/admin/" . ".config/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/home/admin/probes/lsp_probe/"
+ "/home/admin/.config/sway/"
+ "/home/admin/my_notes/PS/"
+ "/home/admin/study/PS/"
+ "/home/admin/.emacs.d/elpa/yasnippet-snippets-20240911.801/snippets/org-mode/"
+ "/home/admin/.emacs.d/elpa/yasnippet-snippets-20240911.801/snippets/latex-mode/"
  "/home/admin/.emacs.d/"
+ "/home/admin/probes/lsp_probe/"
+ "/home/admin/.config/i3/"
+ "/home/admin/.config/polybar/"
+ "/home/admin/.config/polybar/modules/"
+ "/home/admin/my_notes/gate_cse/toc/"
+ "/home/admin/study/gate_cse/toc/"
+ "/home/admin/"
  "/home/admin/probes/org/"
  "/home/admin/.emacs.d/quelpa/build/org-xournalpp/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "main.cpp"
+ "config"
+ "notes.org"
+ "sqrt"
+ "pow"
+ "int"
  "init.el"
- "new.org"
- "cool_shit.xopp"
- "org-xournalpp.el"
+ "main.cpp"
+ "config.ini"
+ "colors.ini"
+ "backlight.ini"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/admin/.emacs.d/" (26354 38795 239395 481000) ".dap-breakpoints" "elpa/" "auto-save-list/" "ido.last" "./" "quelpa/" ".lsp-session-v1" "tramp" "smex-items" "../" "ido.last~" "init.el" "init.el~")
+ ("/home/admin/.config/sway/" (26359 42767 961736 178000) "config" "config~" "./" "../")
+
+ ("/home/admin/.config/" (26359 42297 340999 485000) "plasma-workspace/" "BetterDiscord/" "kiorc" "rofi/" "REAPER/" "wal/" "dconf/" "calibre/" "ibus/" "autostart/" "kwriterc" "libreoffice/" "cairo-dock/" "latte/" "connections.db" "krunnerrc" "konsolesshconfig" "zellj/" "gh/" "powermanagementprofilesrc" "plasmanotifyrc" "HyprPanel/" "picom/" "kcmfonts" "kdeglobals" "plasma-welcomerc" "kitty/" "kglobalshortcutsrc" "gtkrc-2.0" "touchpadxlibinputrc" "hypr/" "gtk-3.0/" "kwinrc" "PlasmaDiscoverUpdates" "Wave/" "polybar.backup/" "ksplashrc" "okularrc" "htop/" "kate/" "procps/" ".gsd-keyboard.settings-ported" "pavucontrol.ini" "panel-colorizer/" "vlc/" "bluetuith/" "kak/" "Thunar/" "yelp/" "nvim/" "neofetch/" "obs-studio/" "ranger/" "ktimezonedrc" "user-dirs.locale" "ags/" "evolution/" "OpenSCAD/" "systemd/" "kdedefaults/" "mpv/" "kwinoutputconfig.json" "kded5rc" "totem/" "ghc/" "kactivitymanagerdrc" "Electron/" "./" "ristretto/" "plank/" "FreeCAD/" "dolphinrc" "QtProject.conf" "ksmserverrc" "kde.org/" "session/" "mprisence/" "wofi/" "user-dirs.dirs" "yay/" "Mousepad/" "plasmarc" "discoverrc" "baloofilerc" "go/" "audacious/" "xournalpp/" "sway/" "katerc" "epiphany/" "zed/" "polybar/" "Trolltech.conf" "plasmashellrc" "gtk-2.0/" "plasma-org.kde.plasma.desktop-appletsrc" "baloofileinformationrc" "BetterDiscord Installer/" "alacritty/" "discord/" "xfce4-dict/" "konsolerc" "xfce4/" "gnome-session/" "kded6rc" "kconf_updaterc" "plasmaparc" "nitrogen/" "KDE/" "chromium/" "trashrc" "gtk-4.0/" "filetypesrc" "nautilus/" "starship.toml" "libaccounts-glib/" "bluedevilglobalrc" "goa-1.0/" "btop/" "matplotlib/" "katevirc" "lattedockrc" "pulse/" "gtkrc" "mako/" "fontconfig/" "kdeconnect/" "kactivitymanagerd-statsrc" "../" "kgammarc" "mimeapps.list" "plasma-localerc" "qtvirtualkeyboard/" "ardour8/" "xsettingsd/" "kcminputrc")
+
+ ("/home/admin/" (26359 42923 47783 462000) "intel/" ".icons/" ".stack/" "mamabanga/" ".pki/" ".cmake/" ".gtkrc-2.0" "dsamonster/" "Kalax - 86'.mp3" ".zen/" "zig/" ".skiko/" "Downloads/" ".waveterm/" "memes/" "archrice/" ".texlive/" "yarn.lock" "stdman/" ".yarnrc" "RE" "powerlevel10k/" ".vim/" "HyprPanel/" ".intel/" "Desktop/" ".zshrc" ".Xauthority" ".ICEauthority" "arch-setup/" "AudioProjects/" "Calibre Library/" ".rustup/" "c3c-git/" "dsd_notes.pdf" "qemu-9.0.1/" "books/" ".erc/" "probes/" ".fehbg" "haskell-tuts/" ".cargo/" "Pictures/" ".fonts/" ".local/" ".surrealdb/" ".Xilinx/" "drama(zeetv).org" "neetcode/" ".cabal/" ".npm/" "dwm/" "opendoc" ".mshell/" ".profile" "music_lite/" "dsa-grind/" "./" ".themes/" "grenadier/" "Videos/" "render.mp3" ".dwm_log" "afetch/" ".config/" ".emacs.d/" "Documents/" "org/" ".xinitrc" "audience.txt" "malloc/" ".java/" ".ghcup/" ".spotdl/" ".p10k.zsh" "wallpapers/" ".bashrc" "cafcprep/" "yay/" "aura/" "ds-l/" "backend/" "go/" "journal.org~" "journal.org" ".bash_history" ".cache/" "something" ".newsboat/" ".mozilla/" ".bash_profile" "xac/" "drama(zeetv).org~" ".bun/" "stw/" ".viminfo" ".python_history" "Sync/" "gdsc/" "qemu-9.0.1.tar.xz" "emsdk/" "node_modules/" "history.txt" ".var/" ".bash_logout" "dwm-from-gdm/" ".vimrc" "dotfiles/" ".yarn/" "study/" "evenbettermotherfuckingwebsite/" "swapkeys" "journal.txt~" ".wget-hsts" ".bashrc~" ".zprofile" "org-xournalpp/" "../" "competitive-programming/" "Music/" "shantz-csv-to-opml/" ".gitconfig" "package-lock.json" ".zshenv" ".zsh/" ".zcompdump" "my_notes/" "Makefile" "Symposium_v2.0/" "package.json" ".gnupg/" "py-lsp/" ".zshrc~")
+
+ ("/home/admin/my_notes/gate_cse/toc/" (26358 22481 693358 302000) "notes.pdf" "notes.tex" "notes.org" "notes.org~" "./" "handwritten/" "sipser.pdf" "../")
+
+ ("/home/admin/.emacs.d/" (26358 22122 415112 322000) "session.106465696d000172735823200000013850016" "snippets/" "session.10c6c131e9ec090a00172736502619770900000030080086" ".dap-breakpoints" "elpa/" ".git/" "auto-save-list/" "ido.last" "./" "quelpa/" ".lsp-session-v1" "tramp" "smex-items" "../" "ido.last~" "init.el" "init.el~")
+
+ ("/home/admin/study/PS/" (26358 22118 635140 607000) "notes.pdf" "notes.tex" "notes.org" "notes.org~" "./" "../")
+
+ ("/home/admin/.emacs.d/elpa/yasnippet-snippets-20240911.801/snippets/org-mode/" (26358 21930 260048 42000) "html" "embedded" "style" "setup" "image" "keywords" "exampleblock" "link" "python" "src" "rv_image_background" "rv_background" "center" "include" "entry" "export" "options" "description" "sqrt" "email" "frac" "video" "./" "title" "language" "emacs-lisp" "img" "quote" "matrix" "date" "table" "sqrt~" "uml" "sum" "ipython" "dot" "author" "figure" "pow" "../" "int" "verse" "elisp" "pow~")
+
+ ("/home/admin/my_notes/PS/handwritten/" (26358 22705 449265 832000) "IMG_20240927_123113.jpg" "./" "../")
+
+ ("/home/admin/my_notes/PS/" (26358 22466 473409 938000) "./" "handwritten/" "../")
+
+ ("/home/admin/my_notes/" (26358 22369 477072 354000) ".stfolder/" "README.md~" "./" "PS/" "gate_cse/" "../")
+
+ ("/home/admin/probes/lsp_probe/" (26358 20041 934497 165000) "main.cpp" "./" "#main.cpp#" "main.cpp~" "../")
+
+ ("/home/admin/.emacs.d/elpa/yasnippet-snippets-20240911.801/snippets/" (26358 20404 819084 867000) "css-mode/" "c++-mode/" "dart-mode/" "scala-mode/" "nix-mode/" "ruby-ts-mode/" "bazel-mode/" "apples-mode/" "d-mode/" "f90-mode/" "markdown-ts-mode/" "makefile-gmake-mode/" "css-ts-mode/" "erc-mode/" "dockerfile-mode/" "odin-mode/" "kotlin-mode/" "applescript-mode/" "faust-mode/" "cc-mode/" "js2-mode/" "rjsx-mode/" "ned-mode/" "makefile-automake-mode/" "php-ts-mode/" "python-mode/" "js3-mode/" "text-mode/" "perl-mode/" "haskell-mode/" "m4-mode/" "sh-mode/" "cider-repl-mode/" "udev-mode/" "swift-mode/" "chef-mode/" "prog-mode/" "c-mode/" "terraform-mode/" "web-mode/" "enh-ruby-mode/" "conf-desktop-mode/" "csharp-ts-mode/" "sh-ts-mode/" "rust-ts-mode/" "ruby-mode/" "go-mode/" "nim-mode/" "protobuf-mode/" "makefile-mode/" "markdown-mode/" "conf-unix-mode/" "go-ts-mode/" "gdscript-mode/" "tuareg-mode/" "ensime-mode/" "js-ts-mode/" "julia-ts-mode/" "org-mode/" "python-ts-mode/" "octave-mode/" "nsis-mode/" ".nosearch" "./" "groovy-mode/" "sql-mode/" "lisp-interaction-mode/" "typescript-ts-mode/" "git-commit-mode/" "yaml-mode/" "cmake-mode/" "c-lang-common/" "raku-mode/" "snippet-mode/" "crystal-mode/" "java-mode/" "php-mode/" "swift-ts-mode/" "malabar-mode/" "csharp-mode/" "rust-mode/" "html-mode/" "reason-mode/" "emacs-lisp-mode/" "lisp-mode/" "lua-mode/" "haskell-ts-mode/" "js-mode/" "tsx-ts-mode/" "antlr-mode/" "powershell-mode/" "rustic-mode/" "racket-mode/" "nesc-mode/" "rst-mode/" "dix-mode/" "clojure-mode/" "hy-mode/" "makefile-bsdmake-mode/" "elixir-mode/" "java-ts-mode/" "nasm-mode/" "c-ts-mode/" "coq-mode/" "julia-mode/" "fundamental-mode/" "latex-mode/" "nxml-mode/" "scala-ts-mode/" "bibtex-mode/" "vhdl-mode/" "erlang-mode/" "../" "elixir-ts-mode/" "fish-mode/" "cpp-omnet-mode/" "html-ts-mode/" "cperl-mode/" "typescript-mode/" "typescriptreact-mode/" "typerex-mode/" "c++-ts-mode/")
+
+ ("/home/admin/.emacs.d/elpa/yasnippet-snippets-20240911.801/" (26358 20405 82418 822000) "snippets/" "yasnippet-snippets-pkg.el" "./" "yasnippet-snippets-autoloads.el" "yasnippet-snippets.el" "yasnippet-snippets.elc" "../")
+
+ ("/home/admin/.emacs.d/elpa/" (26358 20403 995749 591000) "ace-window-20220911.358/" "company-c-headers-20190825.1631/" "gruvbox-theme-1.30.1/" "pfuture-20220913.1401/" "f-20240308.143619/" "use-package-20230426.2324/" "math-symbol-lists-20220828.2047/" "lsp-ui-20240514.1943/" "dap-mode-20240611.1356/" "yasnippet-snippets-20240911.801/" "bui-20210108.1141/" "markdown-mode-20240829.324/" "posframe-20240827.654/" "ht-20230703.558/" "company-1.0.2/" "lsp-haskell-20240921.2345/" "org-xournalpp-20210702.190939/" "ivy-20240829.1723/" "spinner-1.7.4/" "quelpa-20230620.1343/" "grey-paper-theme-20230415.1115/" "yaml-20231211.1501/" "treemacs-20240815.1227/" "lv-20200507.1518/" "goto-chg-20240407.1110/" "lsp-ivy-20220831.1823/" "wfnames-20240820.906/" "auctex-14.0.6.signed" "s-20220902.204117/" "helm-core-20240923.413/" "lsp-treemacs-20240406.2141/" "./" "lsp-mode-20240923.1603/" "cfrs-20220129.1149/" "company-20240923.34/" "company-math-20221227.1329/" "lsp-docker-20240419.1428/" "helm-lsp-20210419.2014/" "smex-20151212.2209/" "haskell-mode-20240911.1020/" "helm-20240923.620/" "archives/" "quelpa-use-package-20201022.746/" "gnupg/" "hydra-20220910.1206/" "company-1.0.2.signed" "openwith-20120531.2136/" "gruvbox-theme-1.30.1.signed" "dash-20240510.185708/" "which-key-20240620.2145/" "auctex-14.0.6/" "async-20240821.253/" "yasnippet-20240406.1314/" "evil-20240915.832/" "../" "spinner-1.7.4.signed" "company-ctags-20240511.856/" "white-theme-20160917.1743/" "avy-20230420.404/" "autothemer-20230414.1419/")
+
+ ("/home/admin/.emacs.d/elpa/yasnippet-snippets-20240911.801/snippets/latex-mode/" (26358 20404 145749 945000) "block" "documentclass" "moderncv-cvlistitem" "left-right" "frame" "acronym" "subsec" "columns" "label" "python" "begin" "equation" "moderncv-cvline" "theorem" "question" "listing" "alg" "description" "moderncv" "frac" "enumerate" "corollary" "note" "german-quotes-single" "usepackage" "emph" "item" "./" "cite" "newcommand" "align" "moderncv-cvlanguage" "binom" "capgls" "includegraphics" "itemize" "labelcref" "section" "article" "code" "bigcap" "moderncv-cvcomputer" "alertblock" "movie" "moderncv-cvlistdoubleitem" "lemma" "sum" "german-quotes" "newglossaryentry" "if" "subfigure" "figure" "subf" "prod" "textbf" "moderncv-cventry" "../" "gls" "bigcup" "caption" "int" "glspl")
+
+ ("/home/admin/.emacs.d/snippets/" (26358 20404 942418 492000) "./" "../")
+
+ ("/home/admin/study/" (26358 17514 743232 140000) "./" "PS/" "gate_cse/" "../")
+
+ ("/home/admin/.config/polybar/" (26358 13593 586507 150000) ".git/" "colors.ini" "./" "config.ini" "../")
+
+ ("/home/admin/.config/i3/" (26358 14960 844688 372000) "i3-radius/" "config" "config~" "./" "config.save" "../")
+
+ ("/home/admin/.config/polybar/modules/" (26358 12673 588981 556000) "pulseaudio.ini" "wlan.ini" "cpu.ini" "temperature.ini" "divider.ini" "date.ini" "ewmh.ini" "powermenu.ini" "./" "tray.ini" "backlight.ini" "battery.ini" "memory.ini" "i3.ini" "wired.ini" "mpd.ini" "../" "title.ini")
+
+ ("/home/admin/my_notes/gate_cse/" (26357 24570 280022 109000) "GATE _CS_2025_Syllabus.pdf" "toc/" "./" "../")
+
+ ("/home/admin/study/gate_cse/toc/" (26356 55775 256537 201000) "#notes.org#" "notes.pdf" "notes.tex" "notes.org" "notes.org~" "./" "Introduction To Automata Theory_john hopcroft.pdf" "../" "Introduction-To-The-Theory-Of-Computation-Michael-Sipser.pdf")
+
+ ("/home/admin/study/gate_cse/" (26354 61784 33782 108000) "toc/" "./" "../")
 
  ("/home/admin/emsdk/" (26288 63614 303263 447000) "emsdk_env.csh" "upstream/" "bazel/" "LICENSE" "emsdk_manifest.json" "test/" "emcmdprompt.bat" ".git/" "docker/" "emscripten-releases-tags.json" ".circleci/" "emsdk_env.fish" "emsdk_env.sh" ".github/" "emsdk_env.ps1" "./" ".emscripten" "README.md" "SECURITY.md" ".flake8" "downloads/" "emsdk.ps1" "node/" "llvm-tags-64bit.txt" "legacy-emscripten-tags.txt" "emsdk" "scripts/" "legacy-binaryen-tags.txt" "../" ".dockerignore" "emsdk_env.bat" ".gitignore" "emsdk.bat" "emsdk.py")
 
  ("/home/admin/probes/" (26354 37528 207021 812000) "rusty/" "tutorials/" "lsp_probe/" "./" "org/" "synk/" "portfolio/" "libraries/" "../" "twenty-five-and-five/" "go_tuts/")
 
- ("/home/admin/probes/lsp_probe/" (26354 37949 332569 484000) "main.cpp" "./" "main.cpp~" "../")
-
  ("/home/admin/probes/org/" (26354 36769 900380 985000) "./" "../" "#new.org#")
-
- ("/home/admin/" (26354 36661 958321 307000) "intel/" ".icons/" ".stack/" "mamabanga/" ".pki/" ".cmake/" ".gtkrc-2.0" "dsamonster/" ".zen/" "zig/" ".skiko/" "Downloads/" ".waveterm/" "memes/" "archrice/" ".texlive/" "yarn.lock" "stdman/" ".yarnrc" "RE" "powerlevel10k/" ".vim/" "HyprPanel/" ".intel/" "Desktop/" ".zshrc" ".Xauthority" ".ICEauthority" "arch-setup/" "AudioProjects/" "Calibre Library/" ".rustup/" "c3c-git/" "dsd_notes.pdf" "qemu-9.0.1/" "books/" ".erc/" "probes/" ".fehbg" "haskell-tuts/" ".cargo/" "Pictures/" ".local/" ".surrealdb/" ".Xilinx/" "drama(zeetv).org" "neetcode/" ".cabal/" ".npm/" "dwm/" "opendoc" ".mshell/" ".profile" "music_lite/" "dsa-grind/" "./" "grenadier/" "Videos/" "render.mp3" ".dwm_log" "afetch/" ".config/" ".emacs.d/" "Documents/" "org/" ".xinitrc" "audience.txt" "malloc/" ".java/" ".ghcup/" ".spotdl/" ".p10k.zsh" "wallpapers/" ".bashrc" "cafcprep/" "yay/" "aura/" "ds-l/" "backend/" "go/" "journal.org~" "journal.org" ".bash_history" ".cache/" "something" ".newsboat/" ".mozilla/" ".bash_profile" "xac/" "drama(zeetv).org~" ".bun/" "stw/" ".viminfo" ".python_history" "gdsc/" "qemu-9.0.1.tar.xz" "emsdk/" "node_modules/" "history.txt" ".var/" ".bash_logout" "dwm-from-gdm/" ".vimrc" "dotfiles/" ".yarn/" "evenbettermotherfuckingwebsite/" "swapkeys" "journal.txt~" ".wget-hsts" ".bashrc~" ".zprofile" "org-xournalpp/" "../" "competitive-programming/" "Music/" "shantz-csv-to-opml/" ".gitconfig" "package-lock.json" ".zshenv" ".zsh/" ".zcompdump" "Makefile" "Symposium_v2.0/" "package.json" ".gnupg/" "py-lsp/" ".zshrc~")
 
  ("/home/admin/.emacs.d/quelpa/build/org-xournalpp/" (26354 35290 72340 271000) ".gitattributes" "LICENSE" ".git/" "resources/" "./" "README.org" "../" "org-xournalpp.el")
 
@@ -48,8 +114,6 @@
  ("/home/" (26204 10082 54711 177000) "admin/" "./" "../")
 
  ("/home/admin/.emacs.d/elpa/quelpa-20230620.1343/" (26354 35007 903025 638000) "bootstrap.elc" "quelpa.elc" "quelpa.el" "./" "bootstrap.el" "quelpa-pkg.el" "quelpa-autoloads.el" "../")
-
- ("/home/admin/.emacs.d/elpa/" (26354 35314 772416 925000) "f-20240308.143619/" "use-package-20230426.2324/" "org-xournalpp-20210702.190939/" "quelpa-20230620.1343/" "goto-chg-20240407.1110/" "s-20220902.204117/" "./" "smex-20151212.2209/" "archives/" "quelpa-use-package-20201022.746/" "gnupg/" "dash-20240510.185708/" "evil-20240915.832/" "../")
 
  ("/home/admin/.emacs.d/quelpa/melpa/" (26354 35096 793454 356000) "html/" "packages-stable/" "logo/" "recipes/" ".git/" "docker/" "html-stable/" ".github/" "./" "README.md" ".mailmap" "package-build/" "CONTRIBUTING.org" "packages/" ".dir-locals.el" "LICENSE.md" "../" ".gitignore" "Makefile")
 

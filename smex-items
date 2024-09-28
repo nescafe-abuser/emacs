@@ -1,25 +1,25 @@
 
 ;; ----- smex-history -----
 (
- customize-themes
- package-list-packages
- helm-lsp-workspace-symbol
- company-css
+ compile
+ lsp
+ set-variable
+ split-window-horizontally
  package-install
- eval-region
- org-xournalpp-mode
+ company-math-symbols-latex
+ company-css
 )
 
 ;; ----- smex-data -----
 (
- (package-list-packages . 6)
+ (package-list-packages . 8)
  (quelpa . 1)
- (eval-region . 6)
+ (eval-region . 7)
  (org-xournalpp-mode . 6)
- (make-directory . 1)
+ (make-directory . 2)
  (org-xournalpp-insert-new-image . 2)
  (lsp-mode . 1)
- (lsp . 4)
+ (lsp . 5)
  (lsp-ui-mode . 1)
  (lsp-ui-doc-show . 2)
  (lsp-ui-doc-toggle . 3)
@@ -28,7 +28,23 @@
  (lsp-ivy-workspace-symbol . 2)
  (helm-lsp-workspace-symbol . 5)
  (lsp-ivy-global-workspace-symbol . 1)
- (package-install . 1)
- (company-css . 1)
- (customize-themes . 2)
+ (package-install . 8)
+ (company-css . 4)
+ (customize-themes . 5)
+ (haskell-menu . 1)
+ (haskell-mode . 1)
+ (ghci-script-mode . 1)
+ (haskell-describe . 1)
+ (org-agenda-list . 1)
+ (openwith-mode . 1)
+ (org-deadline . 4)
+ (org-cycle . 1)
+ (toggle-truncate-lines . 2)
+ (time-stamp . 1)
+ (org-agenda . 1)
+ (company-math-symbols-latex . 3)
+ (list-packages . 2)
+ (split-window-horizontally . 1)
+ (set-variable . 1)
+ (compile . 10)
 )

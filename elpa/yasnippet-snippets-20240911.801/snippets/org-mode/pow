@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: pow
+# key: pow
+# --
+^{$1}$0
